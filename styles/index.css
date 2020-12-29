@@ -1,0 +1,35 @@
+body {
+    color: #ff7b00;
+}
+
+header {
+    background-color: cadetblue;
+}
+
+footer {
+    background-color: cadetblue;
+    width: 100%;
+}
+
+.container {
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.custom {
+    font-family: 'Nunito Sans';
+    font: bold;
+    font-size: 100px;
+    text-decoration: underline rgb(0, 4, 255) 12px;
+}
+
+.links {
+    margin-bottom: auto;
+}
+
+a {
+    color: rgb(0, 4, 255);
+    font-size: xx-large;
+    text-decoration: underline #ff7b00 12px;
+    font-family: 'Nunito Sans';
+}
