@@ -17,7 +17,7 @@ body {
 .links {
     color: #0004ff;
     font-size: xx-large;
-    text-decoration: underline #ff7b00 12px;
+    text-decoration: underline #0004ff 12px;
     font-family: 'Nunito Sans';
     text-align: left;
     cursor: pointer;
@@ -31,6 +31,7 @@ a {
 #success {
     color: #0004ff;
     font: bold;
+    text-decoration: underline #ff7b00 12px;
 }
 
 .notify {
